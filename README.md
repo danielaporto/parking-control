@@ -1,7 +1,7 @@
 # Parking control
 
 ```
-- JDK 19
+- JDK 17
 - Maven
 - Postman
 - PgAdmin (Postgres)
